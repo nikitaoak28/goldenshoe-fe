@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0px;
+
+}
+
+*{
+  font-family: 'Montserrat' !important;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

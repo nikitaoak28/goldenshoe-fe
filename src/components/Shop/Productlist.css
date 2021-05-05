@@ -1,0 +1,11 @@
+.product {
+    cursor: pointer;
+ padding: 0px;;
+    width: 300px;
+    height: 300px;
+}
+
+.imgshoe {
+    height: 200px;
+    width: 200px;
+}
